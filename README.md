@@ -1,2 +1,2 @@
 # Console-Snake-Game
-*Language: C++
+* Language: C++
